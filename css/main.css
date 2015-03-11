@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  color: #333333;   
+  color: #da0811;   
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   background-color: #c4dce1;                      /*change your Bkg color*/
 }
@@ -19,7 +19,7 @@ a, a:active, a:visited {
 
 
 footer {
-  border-top: 1px dotted #999999;
+  border-top: 1px dotted #da0811;
   clear: both;
   padding: 1em 0;
 }
@@ -32,8 +32,8 @@ footer p {
 
 header {
   background: #C8C1B7;
-  border-bottom: 1px solid #999999;
-  background-image: url("../img/gallerybanner.jpg"); /*change your banner image*/
+  border-bottom: 1px solid #da0811;
+  background-image: url("../img/baner.jpg"); /*change your banner image*/
   height: 60px;
   position: relative;
   width: 100%;
@@ -67,11 +67,11 @@ header nav > ul li {
 }
 
 header nav > ul li:hover, header nav > ul li.active {
-  border-bottom-color: #0066CC;
+  border-bottom-color: #da0811;
 }
 
 header nav > ul li:hover a, header nav > ul li.active a {
-  color: #0066CC;
+  color: #da0811;
 }
 
 header nav a, header nav a:visited {
@@ -88,8 +88,8 @@ header nav a, header nav a:visited {
 }
 
 .gallery li {
-  background-color: #333333;
-  border: 1px solid #999999;
+  background-color: #da0811;
+  border: 1px solid #da0811;
   border-radius: 2px;
   float: left;
   list-style-type: none;
